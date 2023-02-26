@@ -1,0 +1,52 @@
+# Horiseon-Marketing-Agency
+
+## Description
+
+This is my submission for the Horiseon Website Week 1 Challenge
+
+## Table of Contents (Optional)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Badges](#badges)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
+
+## Installation
+
+n/a
+
+## Usage
+
+Navigate to https://ajaxtherabbit.github.io/Horiseon-Marketing-Agency to visit the end result.
+
+The website looks like this:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
+
+## Credits
+
+My gratitude to Jack Song and Sid for teaching us the basics of HTML and CSS!
+
+## License
+
+MIT Licence
+
+## Badges
+
+n/a
+
+## Features
+
+n/a
+
+## How to Contribute
+
+n/a
+
+## Tests
+
+n/a
