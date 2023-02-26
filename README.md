@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my submission for the Horiseon Website Week 1 Challenge
+This is my submission for the Horiseon Website Week 1 Challenge.
 
 ## Table of Contents (Optional)
 
@@ -38,7 +38,7 @@ n/a
 
 ## Features
 
-n/a
+Updated HTML code indicating the semantic language used and comments relating to the reasons for each CSS element. 
 
 ## How to Contribute
 
