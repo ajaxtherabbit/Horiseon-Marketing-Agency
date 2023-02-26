@@ -1,4 +1,4 @@
-/* CSS reset (Setting elemens and margins to sum zero) */
+/* CSS reset (Setting elements and margins to sum zero) */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -21,9 +21,9 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* Highlighting the SEO inside of the Horiseon title */
+/* Colouring of the SEO lettering inside of the Horiseon title */
 header h1 .seo {
-    color: #d9dcd6;
+    color: #f3e33e;
 }
 
 /* Navigation links styling */
@@ -52,11 +52,10 @@ a {
     text-decoration: none;
 }
 
-/* Sizing of fonts in paragraphs */
+/* Sizing of the fonts in paragraphs */
 p {
     font-size: 16px;
 }
-/* The image is REALLY BIG. I have compressed this image to improve SEO */
 /* The styling for the hero image  */
 .hero {
     height: 800px;
@@ -73,20 +72,20 @@ p {
     margin-right: 25px;
 }
 
-/* Positioning an image to the right in the article section */
+/* Positioning of image to the right in the article section */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/* Adjusting styling for the main content */
+/* Adjusting the styling for the main content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Adjusting the widith of the sidebar */
+/* Adjusting width of the sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -147,6 +146,6 @@ footer {
 }
 
 /* Size of heading in the footer section */
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
