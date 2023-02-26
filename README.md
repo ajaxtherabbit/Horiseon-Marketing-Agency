@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my submission for the Horiseon Website Week 1 Challenge.
+This is my submission for the Horiseon Website Week 1 Challenge. All source code is within the index.html file, and Assets/CSS folder. 
 
 ## Table of Contents (Optional)
 
